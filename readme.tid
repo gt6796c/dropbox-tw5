@@ -1,0 +1,5 @@
+title: $:/plugins/tiddlywiki/filesystem/readme
+
+The Dropbox plugin is used under to synchronize tiddler changes back to Dropbox.
+
+[[Source code|https://github.com/gt6796c/dropbox-tw5]]
